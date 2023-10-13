@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **A personal project for an online photography gallery**
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **Tailwind CSS, Bootstrap and Vue.js**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
