@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/thexstudent" target="blank"><img src="https://img.shields.io/twitter/follow/thexstudent?logo=twitter&style=for-the-badge" alt="thexstudent" /></a> </p>
 
-- 🔭 I’m currently working on **A personal project for an ecommerce website for shoe retail**
+- 🔭 I’m currently working on **A react application for basketball information**
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
